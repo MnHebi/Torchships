@@ -1,5 +1,5 @@
 {
-    "masterVersionFile":"https://www.dropbox.com/s/zg1sdffpcwubjsl/TORCHSHIPS.version?dl=1",
+    "masterVersionFile":"https://raw.githubusercontent.com/MnHebi/Torchships/main/TORCHSHIPS.version",
     "modName":"Torchships And Deadly Armaments",
     "modThreadId":"17856",
     "modNexusId":"36",
@@ -7,6 +7,8 @@
     {
         "major":0,
         "minor":1,
-        "patch":"7rc1"
+        "patch":"8"
     },
+	"directDownloadURL": "https://github.com/MnHebi/Torchships/releases/download/0.18/Torchships_0.18.zip",
+	"changelogURL": "https://raw.githubusercontent.com/MnHebi/Torchships/main/CHANGELOGS.txt"
 }

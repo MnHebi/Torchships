@@ -1,5 +1,9 @@
 Torchships And Deadly Armament
 
+0.18
+
+ - Just a recompile for 0.97
+
 0.17
 
 NEW CONTENT
@@ -28,6 +32,9 @@ BUGFIXES/IMPROVEMENTS:
  - Whirlwind-class's Gravitic Hook system:
    . Now pushes ships, missiles and shots *away* in a narrow cone. Can reflect ordinance back to the shooter.
    . Improved distortion FX.
+   - MnHebi changes for 0.96 update:
+   . Faction file hull chances rebalanced to fit modern Starsector
+   . Updated magiclib calls & includes
 
 0.16
 
