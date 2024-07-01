@@ -16,6 +16,6 @@
 		target:"NO TARGET",
 		engine:"increased engine power",
 
-		hm_incompatible:"Can not be installed in conjonction with ",
+		hm_incompatible:"Can not be installed in conjunction with ",
     }
 }
