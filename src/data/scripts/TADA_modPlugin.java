@@ -9,7 +9,7 @@ import com.fs.starfarer.api.combat.MissileAPI;
 import com.fs.starfarer.api.combat.ShipAPI;
 import data.scripts.ai.TADA_pilumAI;
 import data.scripts.ai.TADA_spikeAI;
-import data.scripts.util.MagicSettings;
+import org.magiclib.util.MagicSettings;
 import data.scripts.util.TADA_settingsData;
 import org.dark.shaders.light.LightData;
 import org.dark.shaders.util.ShaderLib;

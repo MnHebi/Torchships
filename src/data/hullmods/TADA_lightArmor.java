@@ -6,7 +6,7 @@ import com.fs.starfarer.api.combat.ShipAPI;
 import java.util.HashMap;
 import java.util.Map;
 import com.fs.starfarer.api.combat.BaseHullMod;
-import data.scripts.util.MagicIncompatibleHullmods;
+import org.magiclib.util.MagicIncompatibleHullmods;
 import static data.scripts.util.TADA_settingsData.LighPlating_noncompatible;
 import static data.scripts.util.TADA_txt.txt;
 
